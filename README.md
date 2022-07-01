@@ -1,4 +1,4 @@
-# Projects-using-C++
+# Resturant-Ordering-Management-System-using-C++
 
 Here this project is known as 
 ### Resturant Ordering Management System.

@@ -1,0 +1,39 @@
+======================================================
+
+CUSTOMER NAME: Allen
+CUSTOMER ADDRESS: #143 Purok Mapagmahal, San Juan, CSFP
+CUSTOMER CONTACT NUMBER: 09001434444
+
+----------------------------------------------------
+	1 * 70        Sprite 1.5 L
+	1 * 75        Fried Liempo
+	1 * 150 Sweet and Sour Pork
+TOTAL AMOUNT DUE: 295
+Fri Jul 01 13:32:22 2022
+
+======================================================
+
+CUSTOMER NAME: Donita
+CUSTOMER ADDRESS: #11 Mabuhay St., AC
+CUSTOMER CONTACT NUMBER: 09090909090
+
+----------------------------------------------------
+	3 * 80       Fried Chicken
+	1 * 70        Sprite 1.5 L
+TOTAL AMOUNT DUE: 310
+Fri Jul 01 13:32:22 2022
+
+======================================================
+
+CUSTOMER NAME: Henry
+CUSTOMER ADDRESS: B11 L51, San Rafael Subd., Mexico
+CUSTOMER CONTACT NUMBER: 090000000001
+
+----------------------------------------------------
+	1 * 150       Buffalo Wings
+	1 * 70        Sprite 1.5 L
+	1 * 80        Fresh Lumpia
+	1 * 100            Chopsuey
+TOTAL AMOUNT DUE: 400
+Fri Jul 01 13:32:22 2022
+
